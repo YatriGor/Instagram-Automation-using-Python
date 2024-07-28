@@ -25,21 +25,3 @@ To run this script, you need to have Python 3.6 or higher installed on your mach
 1. Clone the repository to your local machine.
 2. Install the `instabot` library using pip.
 3. Customize the script with your own Instagram credentials and the actions you want to automate.
-
-## Code Explanation
-
-The script performs the following tasks:
-
-1. **Login**: Logs into your Instagram account using the provided username and password.
-    
-2. **Follow User**: Follows a user specified by their username.
-    
-3. **Upload Photo**: Uploads a photo to your Instagram account from the specified file path.
-    
-4. **Unfollow User**: Unfollows a user specified by their username.
-    
-5. **Send Messages**: Sends a direct message to one or more specified users.
-   
-6. **Retrieve Followers**: Retrieves a list of followers and prints their information.
-    
-7. **Retrieve Following**: Retrieves a list of users you are following and prints their information.
