@@ -1,5 +1,4 @@
 # Instagram-Automation-using-Python
-# Instagram Automation using Python
 
 This project demonstrates how to automate various actions on Instagram using the `instabot` library in Python. With this script, you can perform tasks such as logging into your Instagram account, following users, uploading photos, unfollowing users, sending messages, and retrieving information about your followers and the accounts you follow.
 
